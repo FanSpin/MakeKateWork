@@ -1,6 +1,10 @@
 # MakeKateWork
-generate html document  MakeKateWork
+generate html document  "MakeKateWork"
 from my html/css  template 
-BlankInstructions (private)
+"BlankInstructions (private)"
+
+a list of my first experiences with KDE Kate editor  including
+
+assembly, CMakeList, Mark Down, and GitHub
 
 and practice "Mark Down (.md)" here
