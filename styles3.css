@@ -1,0 +1,84 @@
+
+
+  /* css for adjoining Make Kate Assemble */
+  
+ 
+header  {
+	background-color: pink;
+}
+header  h2{
+	 font-size: 50px; 
+	 color: magenta;
+	  text-align: left;	  
+}
+
+ /*no change to body */
+body{
+	background-color: olive; /*pink #FFC0CB green #339966 */
+}
+
+body h1{
+	 font-size: 75px; 
+	 color: yellow;
+	  text-align: left;	  
+}
+body h2{
+	 font-size: 50px; 
+	 color: yellow;
+	  text-align: left;	  
+}
+
+body p {font-size: 25px;
+ color: yellow;
+  text-align: left;
+ }
+body img { float: right }
+
+  /* begin with box1 */
+
+.box1 {
+  border: 10px ridge #f00;
+  background-color: cyan ;/*  #ff0 blood red  */
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.box1 img {
+  width: 300px;
+  height: 300px;
+  float: right;
+ 
+}
+
+.box1 p {
+  font: sans-serif;
+  text-align: left;
+  color: black;
+  float: left;
+}
+
+ /* begin with box2 */
+ /* Used pages A,B,C,D */
+
+.box2 {
+  border: 10px ridge violet;
+  background-color: #00b3b3; /*  #00b3b3 is the pictured green */
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.box2 img {
+  width: 600px;
+  height: 600px;
+  float: right;
+ 
+}
+
+.box2 p {
+	font: Comic Sans MS, Comic Sans, cursive;
+	font-size: 30px;
+	text-align: left;
+	color: yellow;
+	float: left;
+}
+
