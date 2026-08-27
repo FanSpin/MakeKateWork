@@ -1,4 +1,6 @@
 # MakeKateWork
-MakeKateWork from my  template BlankInstructions
+generate html document  MakeKateWork
+from my html/css  template 
+BlankInstructions (private)
 
-and learn "Mark Down (.md)" here
+and practice "Mark Down (.md)" here
