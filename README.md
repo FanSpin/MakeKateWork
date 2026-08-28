@@ -5,6 +5,6 @@ from my html/css  template
 
 a list of my first experiences with KDE Kate editor  including
 
-assembly, CMakeList, Mark Down, and GitHub
+assembly, CMakeList, and GitHub
 
-and practice "Mark Down (.md)" here
+and practicing with "Mark Down (.md)" here
