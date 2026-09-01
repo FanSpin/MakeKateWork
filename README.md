@@ -15,11 +15,9 @@ https://www.youtube.com/watch?v=7Q0mnAT1MRg
 Make Kate Assemble
 khoraski (assembly, nasm, pastebin): 
 https://www.youtube.com/watch?v=VQAKkuLL31g
-create file type  .asm in dolphin and 
-before starting Kate.
-Editor will output warnning no lsp and 
-recomend something compatable
-assembler and linker make another file type
+
+Pastebin
+https://pastebin.com/3gMBBCbj
 
 Make Kate C (Mariusp^2)
 create file type  .c and CMakeLists.txt in dolphin and 
@@ -46,6 +44,22 @@ daniel@hp62:~$ marksman --version
 daniel@hp62:~$ 
 
 
+
+
+
+
+
+
+
+
+This is [inline link](/some-file.md#some-heading).
+This is an internal [anchor link](#heading).
+
+
+
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
 
 
 
