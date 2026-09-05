@@ -1,0 +1,90 @@
+<!-- this is the official make kate work and make kate assemble -->
+<!-- using the video link -->
+<!-- make a transcript -->
+<!-- make copy paste comand lines -->
+<!-- one page three clicks -->
+<!--<h3>be aware onthis page there are two </h3>
+<h3>image folder listed: img and  original img</h3>-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><!-- Meta -->
+	<title>FigureB</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="robots" content="index,follow" />
+	<link rel="stylesheet" type="text/css" href="styles3.css" />
+</head>
+<header>
+<h2><a href="index.html">MakeKateWork</a></h2>
+</header>
+<body>
+
+<div class="box2">
+
+<p>one line in a paragraph <br>
+o<p>Video Transcript<!--(transcript)Outside Division-->
+	open hello .asm in the editor<br>
+	</p><p>
+	next thing to do is compile our code<br>
+	so i am going to type into nasm DF164 <br>
+	this is assembly program format 164<br>
+	then i am going to type -o <br>
+	this is our output file name<br>
+	and were going to do hello.o and then were going to type<br>
+	our input file name which is hello.asm and now<br>
+	that will produce a file called hello.o
+	</p><p>
+
+	and<br>
+	we cannot execute a (.o) file <br>thats an object file<br>
+	we have to actually link it using a linker<br>
+	to make it an executable file<br>
+	</p><p>
+	so the linker is built into linux called "ld"<br>
+	you can see the GNU linker with ld --help or ld --version<br>
+	and were going to use this to link the object file<br>
+	so we can execute it<br>
+	</p><p>
+	so i am going to type into ld <br>
+	first the input file name <br>
+	hello.o -o <br>
+	and the output name which is going to be hello<br>
+	</p><p>
+	now we can see we have produced hello<br>
+	highlighted green with no extension<br>
+	</p><p>
+	green means exacutable<br>
+	so we exacute it with ./hello<br>
+	as you see terminal shows Hello, World!<br>
+
+	</p>
+	<p>start here(code):split into the above divs/boxes<!--(code)Outside Division-->
+		daniel@hp510 /location/location/$ ls<br>
+		hello .asm<br>
+		daniel@hp510 /location/location/$ nasm -f elf64 -o hello.o hello.asm<br>
+		daniel@hp510 /location/location/$ <br>
+		daniel@hp510 /location/location/$ ls<br>
+		hello.asm  hello.o
+		daniel@hp510 /location/location/$ man ld (--help)(not needed)<br>
+		daniel@hp510 /location/location/$ ld hello.o -o hello<br>
+		daniel@hp510 /location/location/$ <br>
+		daniel@hp510 /location/location/$ ls<br>
+		(hello,green) hello.asm  hello.o  <br>
+		daniel@hp510 /location/location/$ ./hello<br>
+		daniel@hp510 /location/location/$Hello, World!<br>
+		</p>
+
+	<!--more saved inline styling-->
+	<!--<h2 style="color: yellow">inline yellow sub heading</h2 >-->
+	<!--<p style="color: yellow">inline yellow paragraph</p>-->
+<a href="TutsClassId"><!--immage  is  a link.  why? -->
+<img src="img/FigureB.png" alt="" title="" /><!--unknown notation / -->
+</a>
+</p>
+
+</div>
+
+
+</body>
+</html>
