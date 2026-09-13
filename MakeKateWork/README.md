@@ -2,6 +2,15 @@
 ##octothorpe leading words turn blue (linux)
 
 
+cmake tutoral (no video)
+https://codevion.github.io/#!cpp/cmake.md
+
+mark down cheat sheat
+https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+
+
+
+
  Mariusp(CMakeLists): KDE Kate Tutorial
 https://www.youtube.com/watch?v=1UZNvhodgmw
 
@@ -33,17 +42,6 @@ Editor will output warnning no lsp and
 recomend something compatable
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-
-
-daniel@hp62:~$ marksman --version
-Command 'marksman' not found, but can be installed with:
-sudo snap install marksman
-daniel@hp62:~$ 
-daniel@hp62:~$ marksman --version
-2026-02-08
-daniel@hp62:~$ 
-
-
 
 
 
